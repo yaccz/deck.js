@@ -98,9 +98,6 @@
   -o-transform: rotate(3deg);
   transform: rotate(3deg);
 }
-.deck-container .slide code {
-  color: #789;
-}
 .deck-container .slide blockquote {
   font-family: "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
   font-size: 2em;
